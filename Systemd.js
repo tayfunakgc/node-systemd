@@ -31,3 +31,4 @@ const SshService = async (start) => {
 }
 
 module.exports.VncService = VncService;
+module.exports.SshService = SshService;

@@ -11,7 +11,7 @@ const isRaspi = async () => {
             return false;
         }
     } catch (err) {
-        console.log('SystemInfo@isRaspi Err: ', err);
+        console.log('SysInfo@isRaspi Err: ', err);
     }
 }
 
